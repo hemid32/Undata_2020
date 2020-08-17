@@ -1,0 +1,7 @@
+<RCC>
+  <qresource >
+  <file alias='packground.png'>packground.png</file>
+  <file alias='pp.png'>pp.png</file>
+  <file alias='pp2.png'>pp2.png</file>
+   </qresource>
+</RCC>
